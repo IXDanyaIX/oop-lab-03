@@ -1,0 +1,30 @@
+look | смотреть
+look forward | ожидать
+look after | заботиться
+look for | искать
+look up | искать (в справочнике)
+dog | собака
+cat | кошка
+window | окно
+door | дверь
+house | дом
+run | бежать
+run away | убегать
+run out | заканчиваться
+big | большой
+small | маленький
+red | красный
+green | зелёный
+blue | синий
+and | и
+or | или
+the | (определённый артикль)
+to | к / в
+in | в
+on | на
+with | с
+hello | привет
+world | мир
+good | хороший
+morning | утро
+evening | вечер
